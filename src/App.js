@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import ReactDom from 'react-dom';
 import TitleList from './components/title-list';
 import Hero from './components/hero';
+
 import Logo from './components/logo';
 import UserProfile from './components/user-profile';
 import Navigation from './components/navigation';
