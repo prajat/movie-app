@@ -29,31 +29,30 @@
         "origin": "AUTHORED",
         "exported": true
     },
-    "prajat.movieapp-tutorial/hero@0.0.1": {
+    "prajat.movieapp-tutorial/hero@0.0.2": {
         "files": [
             {
+                "name": "Hero.js",
                 "relativePath": "src/components/hero/Hero.js",
-                "test": false,
-                "name": "Hero.js"
+                "test": false
             },
             {
+                "name": "Hero.module.scss",
                 "relativePath": "src/components/hero/Hero.module.scss",
-                "test": false,
-                "name": "Hero.module.scss"
+                "test": false
             },
             {
+                "name": "Hero.spec.js",
                 "relativePath": "src/components/hero/Hero.spec.js",
-                "test": true,
-                "name": "Hero.spec.js"
+                "test": true
             },
             {
+                "name": "index.js",
                 "relativePath": "src/components/hero/index.js",
-                "test": false,
-                "name": "index.js"
+                "test": false
             }
         ],
         "mainFile": "src/components/hero/index.js",
-        "trackDir": "src/components/hero",
         "origin": "AUTHORED",
         "exported": true
     },
