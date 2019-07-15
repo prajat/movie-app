@@ -37,7 +37,7 @@ const Hero = ({ title, description }) => (
 );
 
 Hero.defaultProps = {
-  title: 'Season 2 now available!',
+  title: 'Season 100 now available!',
   description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque id quam sapiente unde voluptatum alias vero debitis, magnam quis quod.',
 }
 
