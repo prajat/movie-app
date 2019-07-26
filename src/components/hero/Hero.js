@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDom from 'react-dom';
-import HeroButton from '../hero-button';
+// import HeroButton from '../hero-button';
 import style from './Hero.module.scss';
 import '../../global.css';
 
@@ -28,8 +28,8 @@ const Hero = ({ title, description }) => (
       <h2>{title}</h2>
       <p>{description}</p>
       <div className={style['button-wrapper']}>
-        <HeroButton primary text="Watch now" />
-        <HeroButton primary={false} text="+ My list" />
+        {/* <HeroButton primary text="Watch now" />
+        <HeroButton primary={false} text="+ My list" /> */}
       </div>
     </div>
     <div className={style.overlay}></div>

@@ -91,17 +91,8 @@
     "extends": "react-app"
   },
   "bit": {
-    "env": {
-      "compiler": "bit.envs/compilers/react@1.0.2"
-    },
+    "env": {},
     "componentsDefaultDirectory": "components/{name}",
-    "packageManager": "npm",
-    "overrides": {
-      "prajat.movieapp-tutorial/hero": {
-        "env": {
-          "compiler": "bit.envs/compilers/react@1.0.2"
-        }
-      }
-    }
+    "packageManager": "npm"
   }
 }
